@@ -1,0 +1,11 @@
+spaceinvaders
+spaceinvaders.display
+spaceinvaders.entidades
+spaceinvaders.entidades.aliens
+spaceinvaders.entidades.arrays
+spaceinvaders.entidades.tiro
+spaceinvaders.gameevent
+spaceinvaders.gfx
+spaceinvaders.hud
+spaceinvaders.input
+spaceinvaders.state
